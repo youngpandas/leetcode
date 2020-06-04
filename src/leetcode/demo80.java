@@ -1,9 +1,11 @@
+package leetcode;
+
 public class demo80 {
 
     public int removeDuplicates(int[] nums) {
-        int pre = 0, post = 0;
-        for (; post < nums.length; post++) {
-
+        int i = 0, j = 0;
+        int num = nums[0], count = 0;
+        for (; j < nums.length; j++) {
         }
         return 0;
     }
