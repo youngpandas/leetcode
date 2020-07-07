@@ -22,11 +22,17 @@ public class demo16 {
                     return ans;
             }
         }
+
+
         return ans;
+
+
     }
 
 
     public static void main(String[] args) {
+        int i = 0;
+        System.out.println(i);
         System.out.println(threeSumClosest(new int[]{-1, 2, 1, -4}, 1));
     }
 }
