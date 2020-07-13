@@ -14,7 +14,7 @@ public class demo57二叉树的下一个结点 {
     }
 
     public TreeLinkNode GetNext(TreeLinkNode pNode) {
-        return null
+        return null;
     }
 
 }
